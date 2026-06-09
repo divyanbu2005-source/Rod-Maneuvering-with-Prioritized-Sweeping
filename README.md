@@ -1,5 +1,4 @@
 # Rod-Maneuvering-with-Prioritized-Sweeping
-
 ## Aim
 
 To implement the **Prioritized Sweeping Reinforcement Learning algorithm** for a Rod Maneuvering environment and learn an optimal policy that efficiently guides the rod from its initial position to the target position while avoiding obstacles and minimizing the number of steps.
